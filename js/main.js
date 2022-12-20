@@ -1,7 +1,7 @@
 // TODO: Créez un tableau icons ayant pour valeur:
 // ['bicycle', 'leaf', 'cube', 'anchor', 'paper-plane-o', 'bolt', 'bomb', 'diamond']
 // La liste des icones que l'on souhaite avoir dans le jeu
-let icons = []
+let icons = ['bicycle', 'leaf', 'cube', 'anchor', 'paper-plane-o', 'bolt', 'bomb', 'diamond']
 
 // on créer un nouveau tableau qui contient toutes les icones dupliquées
 // afin d'avoir les icones en double et ainsi avoir des paires d'icones:
